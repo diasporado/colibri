@@ -2,6 +2,21 @@
 <section name="Workbench">
 	<item value="C:\Users\Joycob\Documents\KE4202\colibri\Cocktail\lib" key="org.eclipse.jdt.ui.lastextjar"/>
 	<item value="0" key="org.eclipse.jdt.ui.last.selected.jre.kind2"/>
+	<section name="FatJarPackageWizard">
+		<item value="C:\Users\Joycob\Documents\KE4202\colibri" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
+		<item value="TravelRecommender - Cocktail" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
+		<item value="Cocktail\travelrecommender.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
+		<item value="false" key="FatJarPackageWizardPage.ANTSCRIPT_SAVE"/>
+		<item value="1" key="FatJarPackageWizardPage.LIBRARY_HANDLING"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="Cocktail\travelrecommender.jar"/>
+			<item value="Cocktail/travelrecommender.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="C:\Users\Joycob\Documents\KE4202\colibri.xml"/>
+			<item value=".xml"/>
+		</list>
+	</section>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item value="2" key="layout"/>
 		<item value="true" key="group_libraries"/>
@@ -11,6 +26,8 @@
 	</section>
 	<section name="ClasspathContainerSelectionPage">
 		<item value="3" key="index"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
