@@ -77,7 +77,7 @@ public class ResultDialog extends JDialog {
 
 		
 		image = new JLabel();
-		image.setIcon(new ImageIcon(FileIO.findFile("jcolibri/cocktail/step3.png")));
+		image.setIcon(new ImageIcon(FileIO.findFile("jcolibri/cocktail/gui/step3.png")));
 		this.getContentPane().setLayout(new BorderLayout());
 		this.getContentPane().add(image, BorderLayout.WEST);
 		

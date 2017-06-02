@@ -1,8 +1,8 @@
 <DataBaseConfiguration>
-	<HibernateConfigFile>jcolibri/examples/TravelRecommender/hibernate.cfg.xml</HibernateConfigFile>
-	<DescriptionMappingFile>jcolibri/examples/TravelRecommender/TravelDescription.hbm.xml</DescriptionMappingFile>
-	<DescriptionClassName>jcolibri.examples.TravelRecommender.TravelDescription</DescriptionClassName>
-	<SolutionMappingFile>jcolibri/examples/TravelRecommender/TravelSolution.hbm.xml</SolutionMappingFile>
-	<SolutionClassName>jcolibri.examples.TravelRecommender.TravelSolution</SolutionClassName>
+	<HibernateConfigFile>jcolibri/cocktail/hibernate.cfg.xml</HibernateConfigFile>
+	<DescriptionMappingFile>jcolibri/cocktail/RecipeDescription.hbm.xml</DescriptionMappingFile>
+	<DescriptionClassName>jcolibri.cocktail.RecipeDescription</DescriptionClassName>
+	<SolutionMappingFile>jcolibri/cocktail/RecipeSolution.hbm.xml</SolutionMappingFile>
+	<SolutionClassName>jcolibri.cocktail.RecipeSolution</SolutionClassName>
 	
 </DataBaseConfiguration>
